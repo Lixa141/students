@@ -127,7 +127,7 @@
      - |5.dz5.1|_ [**+5**]
      -
      - |5.kr1.1|_ [**5**]
-     -
+     - |5.kr2.1|_
      -
      -
      -
@@ -239,7 +239,7 @@
      - |12.dz5.1|_ [**+5**]
      -
      - |12.kr1.1|_ [**+5**]
-     -
+     - |12.kr2.1|_
      -
      -
      -
@@ -255,7 +255,7 @@
      - |13.dz5.1|_ [**+5**]
      -
      - |13.kr1.1|_ [**+5**]
-     -
+     - |13.kr2.1|_
      -
      -
      -
@@ -679,3 +679,9 @@
 .. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/Отчетность/Poyasnitelnaya.docx
 .. |4.kr2| replace:: к/р #2
 .. _4.kr2: https://github.com/LuizaKolobova/VebProject/tree/master/DB
+.. |5.kr2.1| replace:: к/р #2
+.. _5.kr2.1: https://github.com/SuperPloho/vangi.ru/blob/master/database.py
+.. |12.kr1.1| replace:: к/р #2
+.. _12.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/database.py
+.. |13.kr1.1| replace:: к/р #2
+.. _13.kr1.1: https://github.com/SuperPloho/vangi.ru/blob/master/database.py
