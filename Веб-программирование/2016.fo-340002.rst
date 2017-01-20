@@ -165,7 +165,7 @@
      - |12.dz1.1|_ |12.dz1.2|_ |12.dz1.3|_ |12.dz1.4|_ [**+5**]
      -
      - |12.dz3.1|_
-     -
+     - |12.dz4.1|_ |12.dz4.2|_ |12.dz4.3|_ |12.dz4.4|_ |12.dz4.5|_
      -
      -
      -
@@ -287,7 +287,16 @@
 .. |12.dz3.1| replace:: 1
 .. _12.dz3.1: https://github.com/Lixa141/myproject/blob/master/third%20lab
 .. Домашняя работа #4
-
+.. |12.dz4.1| replace:: 1
+.. _12.dz4.1: https://github.com/Lixa141/For4LAB
+.. |12.dz4.2| replace:: 2
+.. _12.dz4.2: https://gist.github.com/Lixa141/1b73f11e728f16f8717a9684e9107f56
+.. |12.dz4.3| replace:: 3
+.. _12.dz4.3: https://gist.github.com/Lixa141/7be77240eadd88eba2ac0a56a38993dd
+.. |12.dz4.4| replace:: 4
+.. _12.dz4.4: https://gist.github.com/Lixa141/4c4639a8b8dd98d0f677abad85621072
+.. |12.dz4.5| replace:: 5
+.. _12.dz4.5: https://gist.github.com/Lixa141/759067d862f2986c64877b6d33fed229
 .. Домашняя работа #5
 
 .. Курсовая работа
